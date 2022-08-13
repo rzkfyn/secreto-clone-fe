@@ -1,0 +1,13 @@
+{
+  "name": "secreto-clone-front-end",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "rzkfyn <rzkfyn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "sass:watch": "sass ./public/stylesheets/scss/style.scss ./public/stylesheets/css/style.css --watch"
+  },
+  "devDependencies": {
+    "sass": "^1.54.4"
+  }
+}
