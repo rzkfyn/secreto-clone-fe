@@ -1,6 +1,6 @@
 import index from './views/index.js';
 import notFound from './views/notfound.js';
-import userPage from './views/userpages.js';
+import userPage from './views/userpage.js';
 
 let title;
 let app;
